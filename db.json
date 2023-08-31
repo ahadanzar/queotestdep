@@ -1,0 +1,748 @@
+{
+    "1": {
+        "Hemoglobin": {
+            "Other Names": [
+                "Haemoglobin"
+            ],
+            "Units": [
+                "g/dL"
+            ]
+        }
+    },
+    "2": {
+        "MCV": {
+            "Other Names": [
+                "M.C.V.",
+                "mean corpuscular volume"
+            ],
+            "Units": [
+                "fL"
+            ]
+        }
+    },
+    "3": {
+        "RBC": {
+            "Other Names": [
+                "R.B.C.",
+                "erythrocyte",
+                "red blood cells",
+                "red cell count"
+            ],
+            "Units": [
+                "10E12/L",
+                "10E6/uL",
+                "M/uL",
+                "million/uL",
+                "Mil/cu.mm",
+                "million/cumm"
+            ]
+        }
+    },
+    "4": {
+        "HCT": {
+            "Other Names": [
+                "H.C.T.",
+                "Hematocrit"
+            ],
+            "Units": [
+                "%",
+                "Percent"
+            ]
+        }
+    },
+    "5": {
+        "MCH": {
+            "Other Names": [
+                "M.C.H.",
+                "mean corpuscular hemoglobin"
+            ],
+            "Units": [
+                "g/dL",
+                "pg"
+            ]
+        }
+    },
+    "6": {
+        "MCHC": {
+            "Other Names": [
+                "M.C.H.C.",
+                "mean corpuscular hemoglobin concentration"
+            ],
+            "Units": [
+                "%",
+                "Percent",
+                "g/dL"
+            ]
+        }
+    },
+    "7": {
+        "RDW-CV": {
+            "Other Names": [
+                "RDW",
+                "R.D.W.",
+                "red cell distribution width"
+            ],
+            "Units": [
+                "Percent",
+                "%"
+            ]
+        }
+    },
+    "8": {
+        "RDW-SD": {
+            "Other Names": [
+                "red cell distribution width standard deviation"
+            ],
+            "Units": [
+                "fL"
+            ]
+        }
+    },
+    "9": {
+        "WBC": {
+            "Other Names": [
+                "W.B.C.",
+                "White blood cells",
+                "Total Leucocyte Count",
+                "TLC"
+            ],
+            "Units": [
+                "10E3/uL",
+                "10E9/L",
+                "%",
+                "Percent",
+                "Thous/cu.mm"
+            ]
+        }
+    },
+    "10": {
+        "Platelet": {
+            "Other Names": [
+                "PLT",
+                "Platelet Count"
+            ],
+            "Units": [
+                "10E3/uL",
+                "10E9/L",
+                "Thous/cu.mm",
+                "1000/uL",
+                "K/uL"
+            ]
+        }
+    },
+    "11": {
+        "NEUTROPHILS": {
+            "Other Names": [
+                "NEU",
+                "Neutrophils",
+                "N.E.U.",
+                "TOTAL NEUTROPHILS",
+                "Neutrophils Absolute",
+                "Neutrophils Total",
+                "Abs Neutrophil",
+                "Total Neutrophils Absolute"
+            ],
+            "Units": [
+                "Percent",
+                "%",
+                "Cells/cu.mm",
+                "10E9/L",
+                "10E3/uL",
+                "cells/uL",
+                "K/uL"
+            ]
+        }
+    },
+    "12": {
+        "Platelet to large cell ratio": {
+            "Other Names": [
+                "plcr"
+            ],
+            "Units": [
+                "Percent",
+                "%"
+            ]
+        }
+    },
+    "13": {
+        "Plateletcrit": {
+            "Other Names": [],
+            "Units": [
+                "Percent",
+                "%"
+            ]
+        }
+    },
+    "15": {
+        "LYMPHOCYTES": {
+            "Other Names": [
+                "LYM",
+                "Lymphocyte Percent",
+                "Lymphs",
+                "TOTAL LYMPHOCYTES, %",
+                "LYMPHOCYTES ABSOLUTE",
+                "Absolute Lymphocyte",
+                "Total Lymphocyte Absolute"
+            ],
+            "Units": [
+                "Percent",
+                "%",
+                "Cells/cu.mm",
+                "10E9/L",
+                "10E3/uL",
+                "cells/uL",
+                "K/uL"
+            ]
+        }
+    },
+    "17": {
+        "EOSINOPHILS": {
+            "Other Names": [
+                "EOS",
+                "EOSINOPHILS percent",
+                "EOSINOPHILS %",
+                "TOTAL EOSINOPHILS",
+                "EOSINOPHILS Absolute",
+                "EOS (absolute)"
+            ],
+            "Units": [
+                "Percent",
+                "%",
+                "Cells/cu.mm",
+                "10E9/L",
+                "10E3/uL",
+                "cells/uL",
+                "K/uL"
+            ]
+        }
+    },
+    "19": {
+        "MONOCYTES": {
+            "Other Names": [
+                "MON",
+                "monocytes percent",
+                "TOTAL MONOCYTES",
+                "Absolute monocytes",
+                "monocyte absolute"
+            ],
+            "Units": [
+                "%",
+                "Percent",
+                "Cells/cu.mm",
+                "10E9/L",
+                "10E3/uL",
+                "cells/uL",
+                "K/uL"
+            ]
+        }
+    },
+    "21": {
+        "BASOPHILS": {
+            "Other Names": [
+                "BAS",
+                "basophils percent",
+                "TOTAL BASOPHILS",
+                "Absolute basophils",
+                "basophil absolute"
+            ],
+            "Units": [
+                "%",
+                "Percent",
+                "Cells/cu.mm",
+                "10E9/L",
+                "10E3/uL",
+                "cells/uL",
+                "K/uL"
+            ]
+        }
+    },
+    "23": {
+        "Neutrophils lymphocytes ratio": {
+            "Other Names": [
+                "NLR"
+            ],
+            "Units": [
+                "ratio"
+            ]
+        }
+    },
+    "24": {
+        "GRANULOCYTES": {
+            "Other Names": [
+                "GRA",
+                "Granulocytes",
+                "Immature Granulocyte",
+                "TOTAL GRANULOCYTES",
+                "grans (absolute)"
+            ],
+            "Units": [
+                "%",
+                "Percent",
+                "10E3/uL",
+                "cells/uL",
+                "K/uL",
+                "Cells/cu.mm",
+                "10E9/L"
+            ]
+        }
+    },
+    "26": {
+        "MPV": {
+            "Other Names": [
+                "mean platelet volume"
+            ],
+            "Units": [
+                "fL"
+            ]
+        }
+    },
+    "27": {
+        "GLUCOSE": {
+            "Other Names": [
+                "FBS",
+                "Glucose Fasting",
+                "fasting blood sugar"
+            ],
+            "Units": [
+                "mg/dL"
+            ]
+        }
+    },
+    "28": {
+        "SODIUM": {
+            "Other Names": [],
+            "Units": [
+                "mmol/L"
+            ]
+        }
+    },
+    "29": {
+        "POTASSIUM": {
+            "Other Names": [],
+            "Units": [
+                "mmol/L"
+            ]
+        }
+    },
+    "30": {
+        "CHLORIDE": {
+            "Other Names": [],
+            "Units": [
+                "mmol/L"
+            ]
+        }
+    },
+    "31": {
+        "CARBON DIOXIDE": {
+            "Other Names": [
+                "BICARBONATE",
+                "carbon dioxide (Total)"
+            ],
+            "Units": [
+                "mmol/L"
+            ]
+        }
+    },
+    "32": {
+        "CREATININE": {
+            "Other Names": [],
+            "Units": [
+                "mg/dl"
+            ]
+        }
+    },
+    "33": {
+        "BUN/CREATININE RATIO": {
+            "Other Names": [],
+            "Units": [
+                "ratio"
+            ]
+        }
+    },
+    "34": {
+        "URIC ACID": {
+            "Other Names": [],
+            "Units": [
+                "mg/dl"
+            ]
+        }
+    },
+    "35": {
+        "PHOSPHATE": {
+            "Other Names": [],
+            "Units": [
+                "mg/dL"
+            ]
+        }
+    },
+    "36": {
+        "CALCIUM": {
+            "Other Names": ["Calcium (NM--BAPTA method)"],
+            "Units": [
+                "mg/dL"
+            ]
+        }
+    },
+    "37": {
+        "MAGNESIUM": {
+            "Other Names": [],
+            "Units": [
+                "g/dL"
+            ]
+        }
+    },
+    "38": {
+        "CHOLESTEROL": {
+            "Other Names": [],
+            "Units": [
+                "mg/dL"
+            ]
+        }
+    },
+    "39": {
+        "HDL CHOLESTEROL": {
+            "Other Names": [
+                "HDL CHOL"
+            ],
+            "Units": [
+                "mg/dL"
+            ]
+        }
+    },
+    "40": {
+        "CHOLESTEROL/HDL RATIO": {
+            "Other Names": [
+                "CHOL/HDL"
+            ],
+            "Units": [
+                "ratio"
+            ]
+        }
+    },
+    "41": {
+        "LDL CHOLESTEROL": {
+            "Other Names": [
+                "LDL CHOL"
+            ],
+            "Units": [
+                "mg/dL"
+            ]
+        }
+    },
+    "42": {
+        "TRIGLYCERIDES": {
+            "Other Names": [],
+            "Units": [
+                "mg/dL"
+            ]
+        }
+    },
+    "43": {
+        "PROTEIN": {
+            "Other Names": [
+                "Total Protein"
+            ],
+            "Units": [
+                "g/dL"
+            ]
+        }
+    },
+    "44": {
+        "ALBUMIN": {
+            "Other Names": [
+                "albumin calculated"
+            ],
+            "Units": [
+                "g/dL"
+            ]
+        }
+    },
+    "45": {
+        "GLOBULIN": {
+            "Other Names": [
+                "GLOBULIN CALCULATED"
+            ],
+            "Units": [
+                "g/dL"
+            ]
+        }
+    },
+    "46": {
+        "A/G RATIO": {
+            "Other Names": [
+                "Albumin/Globulin ratio"
+            ],
+            "Units": [
+                "ratio"
+            ]
+        }
+    },
+    "47": {
+        "BILIRUBIN": {
+            "Other Names": [
+                "Bilirubin total"
+            ],
+            "Units": [
+                "mg/dL"
+            ]
+        }
+    },
+    "48": {
+        "BILIRUBIN DIRECT": {
+            "Other Names": [
+                "Bilirubin Conjugated"
+            ],
+            "Units": [
+                "mg/dL"
+            ]
+        }
+    },
+    "49": {
+        "ALKALINE PHOSPHATASE": {
+            "Other Names": [
+                "ALP"
+            ],
+            "Units": [
+                "IU/L",
+                "U/L"
+            ]
+        }
+    },
+    "50": {
+        "GGT": {
+            "Other Names": [
+                "gamma-glutamyl transferase"
+            ],
+            "Units": [
+                "IU/L"
+            ]
+        }
+    },
+    "51": {
+        "AST": {
+            "Other Names": [
+                "Aspartate Transferase",
+                "Aspartate aminotransferase",
+                "AST (SGOT)"
+            ],
+            "Units": [
+                "U/L",
+                "IU/L"
+            ]
+        }
+    },
+    "52": {
+        "ALT": {
+            "Other Names": [
+                "ALT (SGPT)",
+                "Alanine Transferace",
+                "Alanine aminotransferace"
+            ],
+            "Units": [
+                "IU/L",
+                "U/L"
+            ]
+        }
+    },
+    "53": {
+        "AMYLASE": {
+            "Other Names": [
+                "amylase serum"
+            ],
+            "Units": [
+                "IU/L"
+            ]
+        }
+    },
+    "54": {
+        "LDH": {
+            "Other Names": [
+                "lactic dehydrogenase",
+                "LD"
+            ],
+            "Units": [
+                "IU/L"
+            ]
+        }
+    },
+    "55": {
+        "IRON": {
+            "Other Names": [],
+            "Units": [
+                "mg/dL",
+                "ug/dL"
+            ]
+        }
+    },
+    "56": {
+        "PDW": {
+            "Other Names": [
+                "Platelet Distribution Width"
+            ],
+            "Units": [
+                "fL",
+                "1OGSD"
+            ]
+        }
+    },
+    "57": {
+        "BUN": {
+            "Other Names": [
+                "Blood Urea Nitrogen",
+                "b.u.n."
+            ],
+            "Units": [
+                "mg/dL"
+            ]
+        }
+    },
+    "58": {
+        "T3": {
+            "Other Names": [
+                "T3 (Total)"
+            ],
+            "Units": [
+                "ng/dL"
+            ]
+        }
+    },
+    "59": {
+        "T3 Uptake": {
+            "Other Names": [],
+            "Units": [
+                "%",
+                "Percent"
+            ]
+        }
+    },
+    "60": {
+        "VITAMIN D": {
+            "Other Names": [],
+            "Units": [
+                "ng/ml"
+            ]
+        }
+    },
+    "61": {
+        "VITAMIN B12": {
+            "Other Names": [],
+            "Units": [
+                "pg/mL"
+            ]
+        }
+    },
+    "62": {
+        "Thyroid Stimulating Hormone": {
+            "Other Names": [
+                "TSH"
+            ],
+            "Units": [
+                "micro U/ml",
+                "uIU/mL"
+            ]
+        }
+    },
+    "63": {
+        "FREE T4": {
+            "Other Names": [
+                "t4",
+                "Thyroxine"
+            ],
+            "Units": [
+                "ug/dL",
+                "ng/dL"
+            ]
+        }
+    },
+    "64": {
+        "VLDL": {
+            "Other Names": [
+                "VLDL (Calculated)"
+            ],
+            "Units": [
+                "mg/dL"
+            ]
+        }
+    },
+    "65": {
+        "ALT": {
+            "Other Names": [
+                "Alanine Aminotransferase"
+            ],
+            "Units": [
+                "U/L"
+            ]
+        }
+    },
+    "66": {
+        "AST": {
+            "Other Names": [
+                "Aspartate Aminotransferase ",
+                "a.s.t."
+            ],
+            "Units": [
+                "U/L"
+            ]
+        }
+    },
+    "68": {
+        "CRP": {
+            "Other Names": [
+                "c.r.p.",
+                "C-reactive protein"
+            ],
+            "Units": [
+                "mg/L"
+            ]
+        }
+    },
+    "69": {
+        "ESR": {
+            "Other Names": [
+                "Erythrocyte Sedimentation Rate",
+                "e.s.r."
+            ],
+            "Units": [
+                "mm in 1 hour"
+            ]
+        }
+    },
+    "70": {
+        "Free THyroxine Index": {
+            "Other Names": [],
+            "Units": [
+                "index"
+            ]
+        }
+    },
+    "71": {
+        "Polymorphs": {
+            "Other Names": [],
+            "Units": [
+                "%"
+            ]
+        }
+    },
+    "72": {
+        "PCV": {
+            "Other Names": [
+                "Packed Cell Volume",
+                "p.c.v."
+            ],
+            "Units": [
+                "%"
+            ]
+        }
+    },
+    "73": {
+        "PCT": {
+            "Other Names": [
+                "Procalcitonin",
+                "P.C.T."
+            ],
+            "Units": [
+                "%"
+            ]
+        }
+    }
+}
